@@ -14,7 +14,7 @@
 <p>
 This project presents an interactive ESG (Environmental, Social, Governance) Indicators Dashboard for anonymous company rankings. The dashboard allows users to select a sector (Electrical, Mechanical) and navigate through environmental, social, and governance indicators for performance analysis. Each KPI is visualized with rankings and ratings, providing actionable insights for sustainability and corporate responsibility evaluation.
 </p>
----
+
 <h2>Dashboard Pages</h2>
 
 <h3>1. Sector Selection Page</h3>
