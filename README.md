@@ -51,6 +51,7 @@ This project presents an interactive ESG (Environmental, Social, Governance) Ind
 <h2>Dashboard Previews</h2>
 
 <h3>1. Sector Selection Page</h3>
+
 <p align="center">
   <img src="captures/sector.png" height="50%" width="50%" alt="Sector Selection"/><br/>
   <em>Choose the sector to analyze</em>
@@ -58,7 +59,7 @@ This project presents an interactive ESG (Environmental, Social, Governance) Ind
 
 <h3>2. Home Page (ESG Pillar Selection)</h3>
 <p align="center">
-  <img src="captures/aceuil.png" height="50%" width="50%" alt="Home Page"/><br/>
+  <img src="captures/acceuil.png" height="50%" width="50%" alt="Home Page"/><br/>
   <em>Select the ESG pillar: Environmental, Social, or Governance</em>
 </p>
 
@@ -76,7 +77,7 @@ This project presents an interactive ESG (Environmental, Social, Governance) Ind
 
 <h3>5. Governance Page</h3>
 <p align="center">
-  <img src="captures/governance.png" height="60%" width="60%" alt="Governance KPIs"/><br/>
+  <img src="captures/gouvernance.png" height="60%" width="60%" alt="Governance KPIs"/><br/>
   <em>Governance KPIs with CSR meetings, independence %, and rankings</em>
 </p>
 
